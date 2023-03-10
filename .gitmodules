@@ -1,0 +1,6 @@
+[submodule "bronsoncl/themes/salinger"]
+	path = bronsoncl/themes/salinger
+	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "bronsoncl/themes/ananke"]
+	path = bronsoncl/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
